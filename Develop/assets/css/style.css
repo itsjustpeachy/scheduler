@@ -69,3 +69,13 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+.saveBtnIcon {
+  display: block;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  align-content: center;
+  filter: brightness(10);
+}
