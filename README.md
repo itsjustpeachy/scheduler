@@ -1,6 +1,6 @@
 # Word Day Scheduler
 
-An accessible webpage that allows for the concise and simple planning of daily tasks during a work day
+An accessible webpage that allows for the concise and simple planning of daily tasks during a 9 hour work day.
 
 ### Usage
 https://itsjustpeachy.github.io/scheduler/
